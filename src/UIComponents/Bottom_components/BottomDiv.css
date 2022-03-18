@@ -3,6 +3,9 @@
   flex-direction: row;
   flex-wrap: nowrap;
 }
+
+
+
 .flex-item2 {
   background-color: #ffffff;
   height: 485px;
